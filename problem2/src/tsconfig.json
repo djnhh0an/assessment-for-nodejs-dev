@@ -1,0 +1,10 @@
+{
+  "exclude": [
+    "node_modules"
+  ],
+  "compilerOptions": {
+    "outDir": "dist",
+    "allowJs": false,
+    "resolveJsonModule": true
+  }
+}
