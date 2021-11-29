@@ -5,7 +5,11 @@
   "compilerOptions": {
     "outDir": "dist",
     "allowJs": false,
+<<<<<<< HEAD
     "resolveJsonModule": true,
     "esModuleInterop": true,
+=======
+    "resolveJsonModule": true
+>>>>>>> bfbeea8735d63e0f4a608dbe0d72b24b3f49d07b
   }
 }
