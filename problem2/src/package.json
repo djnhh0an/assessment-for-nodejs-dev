@@ -2,9 +2,9 @@
   "name": "poker-game-assessment",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "server.ts",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node server.ts"
   },
   "author": "Hoan Tran",
   "license": "ISC",
